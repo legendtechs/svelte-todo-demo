@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "snapper-todo-app",
+  "description": "A simple demo based snapper structure && sveltejs",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
