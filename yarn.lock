@@ -661,9 +661,9 @@
   integrity sha1-shUQWX/WAeXXyVAIt2vw0lTr/TE=
 
 "@polka/url@^1.0.0-next.3":
-  version "1.0.0-next.1"
-  resolved "https://registry.npm.taobao.org/@polka/url/download/@polka/url-1.0.0-next.1.tgz#e121c79b30b0873e4701390d3274245f81cfae77"
-  integrity sha1-4SHHmzCwhz5HATkNMnQkX4HPrnc=
+  version "1.0.0-next.11"
+  resolved "https://registry.yarnpkg.com/@polka/url/-/url-1.0.0-next.11.tgz#aeb16f50649a91af79dbe36574b66d0f9e4d9f71"
+  integrity sha512-3NsZsJIA/22P3QUyrEDNA2D133H4j224twJrdipXN38dpnIOzAbUDtOwkcJ5pXmn75w7LSQDjA4tO9dm1XlqlA==
 
 "@types/estree@0.0.39":
   version "0.0.39"
@@ -1117,9 +1117,9 @@ load-json-file@^4.0.0:
     strip-bom "^3.0.0"
 
 lodash@^4.17.13:
-  version "4.17.15"
-  resolved "https://registry.npm.taobao.org/lodash/download/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha1-tEf2ZwoEVbv+7dETku/zMOoJdUg=
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 loose-envify@^1.0.0:
   version "1.4.0"
