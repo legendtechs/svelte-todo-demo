@@ -661,9 +661,9 @@
   integrity sha1-shUQWX/WAeXXyVAIt2vw0lTr/TE=
 
 "@polka/url@^1.0.0-next.3":
-  version "1.0.0-next.1"
-  resolved "https://registry.npm.taobao.org/@polka/url/download/@polka/url-1.0.0-next.1.tgz#e121c79b30b0873e4701390d3274245f81cfae77"
-  integrity sha1-4SHHmzCwhz5HATkNMnQkX4HPrnc=
+  version "1.0.0-next.11"
+  resolved "https://registry.yarnpkg.com/@polka/url/-/url-1.0.0-next.11.tgz#aeb16f50649a91af79dbe36574b66d0f9e4d9f71"
+  integrity sha512-3NsZsJIA/22P3QUyrEDNA2D133H4j224twJrdipXN38dpnIOzAbUDtOwkcJ5pXmn75w7LSQDjA4tO9dm1XlqlA==
 
 "@types/estree@0.0.39":
   version "0.0.39"
@@ -1495,10 +1495,10 @@ safe-buffer@5.1.2, safe-buffer@~5.1.0, safe-buffer@~5.1.1:
   resolved "https://registry.npm.taobao.org/safe-buffer/download/safe-buffer-5.1.2.tgz#991ec69d296e0313747d59bdfd2b745c35f8828d"
   integrity sha1-mR7GnSluAxN0fVm9/St0XDX4go0=
 
-sapper@^0.27.0:
-  version "0.27.8"
-  resolved "https://registry.npm.taobao.org/sapper/download/sapper-0.27.8.tgz#dd41cd359373b816fbb519cffd1b941e4f4cd459"
-  integrity sha1-3UHNNZNzuBb7tRnP/RuUHk9M1Fk=
+sapper@^0.27.11:
+  version "0.27.11"
+  resolved "https://registry.yarnpkg.com/sapper/-/sapper-0.27.11.tgz#46877abe8a386bee62b9decfe9932fe37f5464f7"
+  integrity sha512-5EaPZhlc8OnyN3UCI6dRSM1Gz5sxyzLZG/1z5nMvZhg9Ng+rSvEvJx/rW/tSHcnQPa8or7+YcbfvQHKS5oPHiw==
   dependencies:
     html-minifier "^4.0.0"
     http-link-header "^1.0.2"
